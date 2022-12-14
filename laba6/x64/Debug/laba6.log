@@ -1,0 +1,20 @@
+﻿  Source1.cpp
+C:\Users\38096\Source\Repos\laba6\laba6\Source1.cpp(102,24): warning C4215: nonstandard extension used: long float
+C:\Users\38096\Source\Repos\laba6\laba6\Source1.cpp(24,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\38096\Source\Repos\laba6\laba6\Source1.cpp(22): message : while compiling class template member function 'T *Task2<T>::CreateArray(void)'
+          with
+          [
+              T=double
+          ]
+C:\Users\38096\Source\Repos\laba6\laba6\Source1.cpp(105): message : see reference to function template instantiation 'T *Task2<T>::CreateArray(void)' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Users\38096\Source\Repos\laba6\laba6\Source1.cpp(102): message : see reference to class template instantiation 'Task2<double>' being compiled
+C:\Users\38096\Source\Repos\laba6\laba6\Source1.cpp(28,28): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=long
+          ]
+  laba6.vcxproj -> C:\Users\38096\Source\Repos\laba6\x64\Debug\laba6.exe
